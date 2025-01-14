@@ -4,7 +4,7 @@ import net.borisshoes.arcananovum.mixins.StructurePoolAccessor;
 import net.minecraft.structure.pool.StructurePool;
 import net.minecraft.structure.pool.StructurePoolElement;
 import net.minecraft.util.Identifier;
-import net.minecraft.util.Pair;
+import com.mojang.datafixers.util.Pair;
 
 import java.util.ArrayList;
 import java.util.List;
